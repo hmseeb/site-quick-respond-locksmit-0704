@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Quick Respond Locksmith padlock mark">
+  <rect width="64" height="64" rx="10" fill="#14181d"/>
+  <path d="M22 28v-5a10 10 0 0 1 20 0v5" fill="none" stroke="#c8560d" stroke-width="5.5" stroke-linecap="round"/>
+  <rect x="15" y="28" width="34" height="23" rx="4.5" fill="#c8560d"/>
+  <circle cx="32" cy="38" r="3.6" fill="#14181d"/>
+  <rect x="30.2" y="38" width="3.6" height="8" rx="1.8" fill="#14181d"/>
+</svg>
